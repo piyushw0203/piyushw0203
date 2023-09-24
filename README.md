@@ -1,4 +1,3 @@
-
 [![MasterHead](https://github.com/piyushw0203/piyushw0203/blob/main/misc/synthboy_cmp.gif)
 
 <h1 align="center">नमस्ते (Namaste), 🙏 I'm Piyush Waghulde</h1>
