@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring software developer from India</h3>
 
 <br><br><br><br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushw0203&label=Profile%20views&color=0e75b6&style=flat" alt="piyushw0203" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📄 Resume [https://drive.google.com/drive/folders/1ydEOkgWq8iaO57p1LjwlbK3ljIzU9Tas?usp=drive_link](https://drive.google.com/drive/folders/1ydEOkgWq8iaO57p1LjwlbK3ljIzU9Tas?usp=drive_link)
 
-- ⚡ Fun fact **I love pets. Also, I believe that "Some people have lives; some people have music" :D**
+- ⚡ Fun fact **I love pets. Also, I'm an avid music enthusiast :D**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
