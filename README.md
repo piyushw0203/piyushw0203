@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Rust, PyTorch and AWS**
 
-- 👯 I’m looking to collaborate on **Any new projects related to Deep Learning, Robotics or Rust**
+- 👯 I’m looking to collaborate on **any new projects related to Deep Learning, Robotics or Rust**
 
 - 💬 Ask me about **AI/ML, Rust, Deep Learning, IoT**
 
 - 📫 You can contact me via my E-mail -  **piyushw0203@gmail.com**
 
-- 📄 Resume [https://drive.google.com/drive/folders/1ydEOkgWq8iaO57p1LjwlbK3ljIzU9Tas?usp=drive_link](https://drive.google.com/drive/folders/1ydEOkgWq8iaO57p1LjwlbK3ljIzU9Tas?usp=drive_link)
+- 📄 Resume - [https://drive.google.com/drive/folders/1ydEOkgWq8iaO57p1LjwlbK3ljIzU9Tas?usp=drive_link](https://drive.google.com/drive/folders/1ydEOkgWq8iaO57p1LjwlbK3ljIzU9Tas?usp=drive_link)
 
 - ⚡ Fun fact **I love pets. Also, I'm an avid music enthusiast :D**
 <br>
