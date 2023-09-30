@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I love pets. Also, I'm an avid music enthusiast :D**
 <br>
+
+### Spotify Playing 
+[![Spotify](https://novatorem-blond-iota.vercel.app/api/spotify)](https://open.spotify.com/user/9y48aux14ur67g04sdzougzw6)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-waghulde-5b0499232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush waghulde" height="30" width="40" /></a>
